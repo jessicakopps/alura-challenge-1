@@ -4,7 +4,7 @@ var cripto = document.querySelector("#btn-cripto");
 var descripto = document.querySelector("#btn-descripto");
 var copiar = document.querySelector("#btn-copy");
 
-
+//preventDefault = ir para uma URL definida, se n definiu, vai para ela mesma
 cripto.addEventListener("click", function (event) {
   event.preventDefault();
 });
