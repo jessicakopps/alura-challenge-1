@@ -1,5 +1,5 @@
-# Codificador e Decodificador - ONE-Challenge
+# Codificador e Decodificador 
 
-Desafio do curso da Alura em parceria com o ONE.
+Desafio do Curso ONE: Oracle Next Education e Alura.
 
 Ainda sendo desenvolvido.
