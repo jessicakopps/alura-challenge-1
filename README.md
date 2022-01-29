@@ -6,7 +6,7 @@ Desafio do Curso ONE: Oracle Next Education e Alura.
   
 [***Visite o projeto aqui***](https://jessicakopps.github.io/alura-one-challenge/)<br />
 
-[![rgvHRAi.png](https://i.imgur.com/rgvHRAi.png)](https://imgur.com/rgvHRAi)
+[![1gVu1Dg.png](https://i.imgur.com/1gVu1Dg.png)](https://imgur.com/1gVu1Dg)
   
 </div>
 
